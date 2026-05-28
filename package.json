@@ -1,5 +1,5 @@
 {
-  "name": "@rajputnishant29/kryptit",
+  "name": "kryptit",
   "version": "1.0.0-beta.0",
   "description": "TypeScript field-level encryption engine for secure backend data storage",
   "main": "./dist/index.js",
