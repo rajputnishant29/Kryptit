@@ -13,6 +13,6 @@ if (command === "keygen") {
     console.log(`
 Usage:
 
-npx enkrypt keygen
+npx kryptit keygen
 `);
 }
