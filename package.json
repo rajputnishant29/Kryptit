@@ -1,5 +1,5 @@
 {
-  "name": "kryptit",
+  "name": "@rajputnishant29/kryptit",
   "version": "1.0.0-beta.0",
   "description": "TypeScript field-level encryption engine for secure backend data storage",
   "main": "./dist/index.js",
@@ -20,8 +20,8 @@
     "build": "tsc",
     "test": "node --test"
   },
-    "bin": {
-   "kryptit": "./dist/cli.js"
+  "bin": {
+    "kryptit": "dist/cli.js"
   },
   "keywords": [
     "encryption",
@@ -38,11 +38,11 @@
     "typescript": "^5.0.0"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/rajputnishant29/Kryptit"
-},
-"homepage": "https://github.com/rajputnishant29/Kryptit",
-"bugs": {
-  "url": "https://github.com/rajputnishant29/Kryptit/issues"
-}
+    "type": "git",
+    "url": "git+https://github.com/rajputnishant29/Kryptit.git"
+  },
+  "homepage": "https://github.com/rajputnishant29/Kryptit",
+  "bugs": {
+    "url": "https://github.com/rajputnishant29/Kryptit/issues"
+  }
 }
