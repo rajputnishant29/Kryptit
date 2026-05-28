@@ -36,5 +36,13 @@
   "devDependencies": {
     "@types/node": "^24.12.4",
     "typescript": "^5.0.0"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/rajputnishant29/Kryptit"
+},
+"homepage": "https://github.com/rajputnishant29/Kryptit",
+"bugs": {
+  "url": "https://github.com/rajputnishant29/Kryptit/issues"
+}
 }
